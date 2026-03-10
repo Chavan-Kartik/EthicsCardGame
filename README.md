@@ -1,4 +1,4 @@
-# Ethics Game Project
+# Ethics Game Project 
 
 An interactive web application that presents users with historical ethical dilemmas powered by AI. The game challenges players to make moral decisions in different historical contexts, helping them understand the complexity of ethical decision-making across different time periods.
  
